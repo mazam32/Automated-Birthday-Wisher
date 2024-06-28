@@ -35,6 +35,3 @@ for name in name_list:
                 msg= f"Subject:Happy Birthday!\n\n{new_text}"
             )
     index += 1
-
-
-
